@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bijalbenny
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...bTech in CSE
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...BTech in CSE
 - 📫 How to reach me ...bijalbenny@gmail.com, 8304889421
 
 <!---

@@ -1,3 +1,5 @@
+<img title="a title" alt="Alt text" src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif">
+
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Bijal+T+Benny)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @bijalbenny

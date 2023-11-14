@@ -2,6 +2,9 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Bijal+T+Benny)](https://git.io/typing-svg)
 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bijalbenny)
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 

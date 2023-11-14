@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning BTech in CSE
 - 📫 How to reach me  : bijalbenny@gmail.com
                         8304889421
+
+  ## 🌐 Socials:
   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bijalbenny)
 

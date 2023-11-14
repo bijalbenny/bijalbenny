@@ -1,12 +1,20 @@
 <img title="a title" alt="Alt text" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Bijal+T+Benny)](https://git.io/typing-svg)
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
 - 👋 Hi, I’m @bijalbenny
 - 🌱 I’m currently learning ...BTech in CSE
 - 📫 How to reach me ...bijalbenny@gmail.com, 8304889421
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AmalJoy14&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bijalbenny&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />

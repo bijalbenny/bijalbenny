@@ -1,8 +1,8 @@
 <img title="a title" alt="Alt text" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Bijal+T+Benny)](https://git.io/typing-svg)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Bijal+T+Benny)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @bijalbenny
 - 🌱 I’m currently learning ...BTech in CSE

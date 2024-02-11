@@ -4,9 +4,7 @@
 
 - 👋 Hi, I’m @bijalbenny
 - 🌱 I’m currently learning BTech in CSE
-- 📫 How to reach me  : bijalbenny@gmail.com
--    
-                        8304889421
+- 📫 How to reach me  : bijalbenny@gmail.com , 8304889421
 
 ## 🌐 Socials:
   

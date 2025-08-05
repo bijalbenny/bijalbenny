@@ -1,4 +1,5 @@
-<img title="a title" alt="Alt text" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Alt text" title="a title" style="width: 100%; height: auto;" />
+
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Bijal+T+Benny)](https://git.io/typing-svg)
 

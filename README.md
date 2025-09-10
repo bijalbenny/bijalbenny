@@ -7,9 +7,12 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Bijal+T+Benny)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m @bijalbenny
-- 🌱 I’m currently learning BTech in CSE
-- 📫 How to reach me  : bijalbenny@gmail.com , 8304889421
+# 👋 Hi, I’m @bijalbenny  
+
+- 🌱 I’m currently pursuing **B.Tech in Computer Science and Engineering**  
+- 📫 How to reach me: **bijalbenny@gmail.com** | **8304889421**  
+- 🌐 Check out my Portfolio: [bijalbenny.github.io/Portfolio_](https://bijalbenny.github.io/Portfolio_/)
+
 
 ## 🌐 Socials:
   
